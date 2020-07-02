@@ -2,6 +2,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,linux,macos,jetbrains+all,visualstudiocode,flutter,xcode,android
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,macos,jetbrains+all,visualstudiocode,flutter,xcode,android
 
+
+.slidy/
+
 ### Android ###
 # Built application files
 *.apk
