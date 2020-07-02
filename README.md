@@ -1,16 +1,40 @@
-# SpeechMaster
+# Computaćão Cognitiva 2
+## Interface Baseada em Voz
+### Trabalho Final
 
-A new Flutter project. Created by Slidy
 
-## Getting Started
+#### Grupo:
 
-This project is a starting point for a Flutter application.
+Bruno Matos dos Santos Ferreira
+mat. 1931143072
 
-A few resources to get you started if this is your first Flutter project:
+Paulo Antonio de Faria Filho
+mat. 1931143073
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Pedro Henrique Ferreira Figueiredo
+mat. 1931143071
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Como executar?
+
+1. Instalar o Flutter:
+
+1.1 Seguir as instruções: https://flutter.dev/docs/get-started/install
+
+Lembrar de configurar as variáveis ambiente!
+
+2. SDKs Nativas
+
+Ter instaladas as SDKs nativas do Android e/ou iOS, com as respectivas variáveis ambiente configuradas.
+
+3. Executar
+
+No terminal:
+
+```
+flutter run
+```
+
+No Android Studio:
+
+Abrir o projeto e executar.
