@@ -1,4 +1,4 @@
-# Computaćão Cognitiva 2
+# Computação Cognitiva 2
 ## Interface Baseada em Voz
 ### Trabalho Final
 
