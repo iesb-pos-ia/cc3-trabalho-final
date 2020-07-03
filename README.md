@@ -29,6 +29,10 @@ Ter instaladas as SDKs nativas do Android e/ou iOS, com as respectivas variávei
 
 3. Executar
 
+Antes de mais nada, configure suas API Keys no arquivo:
+
+`lib/app/shared/constants.dart`
+
 No terminal:
 
 ```
